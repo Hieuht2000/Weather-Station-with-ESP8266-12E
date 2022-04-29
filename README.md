@@ -8,9 +8,6 @@ IOT app and display data on Thingspeak.com by graphs.
 Circuit setup:
 ![image](https://user-images.githubusercontent.com/63698805/165893601-c213068b-fcfd-422f-981a-58744a9a335b.png)
 
-OLED:
-![image](https://user-images.githubusercontent.com/63698805/165893749-0c841266-0d5a-4295-abed-2c429dbfd798.png)
-
 Blynk:
 ![image](https://user-images.githubusercontent.com/63698805/165893809-0adbc4eb-e031-4069-9b32-2b381b162dcc.png)
 
